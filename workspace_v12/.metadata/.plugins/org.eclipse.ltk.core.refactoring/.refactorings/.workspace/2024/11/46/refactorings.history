@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Delete resource &apos;pwmled2_CC3220S_LAUNCHXL_nortos_ticlang&apos;" deleteContents="false" description="Delete resource &apos;pwmled2_CC3220S_LAUNCHXL_nortos_ticlang&apos;" element1="/pwmled2_CC3220S_LAUNCHXL_nortos_ticlang" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1731559404592"/>
+</session>

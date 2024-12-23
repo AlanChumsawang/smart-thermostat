@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog">
+		<item key="wrap" value="true"/>
+		<item key="casesensitive" value="false"/>
+		<item key="wholeword" value="false"/>
+		<item key="incremental" value="false"/>
+		<item key="isRegEx" value="false"/>
+		<item key="selection" value="BUTTON_INCREASE_TEMPERATURE"/>
+		<list key="findhistory">
+			<item value="INCREASE_TEMPERATURE"/>
+			<item value="BUTTON_INCREASE_TEMPERATURE"/>
+			<item value="TEMPERATURE_SENSOR_INIT"/>
+			<item value="HEAT_INIT"/>
+			<item value="BUTTON_INIT"/>
+			<item value="DECREASE_TEMPERATURE"/>
+			<item value="updateHeatModeAndServerPeriod"/>
+			<item value="checkTemperaturePeriod"/>
+			<item value="checkButtonPeriod"/>
+			<item value="timerPeriod"/>
+			<item value="numTasks"/>
+			<item value=".period = checkButtonPeriod,"/>
+			<item value="NUM_TASK"/>
+			<item value="NUM_T"/>
+		</list>
+		<list key="replacehistory">
+			<item value="BUTTON_INCREASE_TEMPERATURE"/>
+			<item value="SENSOR_STATE_INIT"/>
+			<item value="HEAT_STATE_INIT"/>
+			<item value="BUTTON_STATE_INIT"/>
+			<item value="BUTTON_DECREASE_TEMPERATURE"/>
+			<item value="UPDATE_SERVER_PERIOD_MS"/>
+			<item value="TEMPERATURE_CHECK_PERIOD_MS"/>
+			<item value="BUTTON_CHECK_PERIOD_MS"/>
+			<item value="TIMER_PERIOD_MS"/>
+			<item value="NUM_TASKS"/>
+			<item value=""/>
+			<item value="EVENT_COUNT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.ui.texteditor.FindReplaceDialog_dialogBounds">
+		<item key="DIALOG_X_ORIGIN" value="1308"/>
+		<item key="DIALOG_Y_ORIGIN" value="551"/>
+		<item key="DIALOG_WIDTH" value="336"/>
+		<item key="DIALOG_HEIGHT" value="402"/>
+		<item key="DIALOG_FONT_NAME" value="1|.AppleSystemUIFont|11.0|0|COCOA|1|.AppleSystemUIFont"/>
+	</section>
+</section>

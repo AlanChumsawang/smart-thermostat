@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="com.ti.common.project.ui.internal.preferences.ProductsPreferencePage">
+		<item key="ToolsPreferencePage.BROWSE_FILTER" value="/Applications/ti/simplelink_cc32xx_sdk_4_30_00_06"/>
+	</section>
+</section>

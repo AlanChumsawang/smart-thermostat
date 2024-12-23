@@ -1,0 +1,25 @@
+[
+  {
+    "name": "simplelink_cc32xx_sdk",
+    "displayName": "SimpleLink CC32XX SDK",
+    "version": "4.30.00.06",
+    "path": "/Applications/ti/simplelink_cc32xx_sdk_4_30_00_06/.metadata/product.json",
+    "includesCCXXImageComponents": true,
+    "documentationPath": "../docs"
+  },
+  {
+    "name": "simplelink_cc32xx_sdk",
+    "displayName": "SimpleLink CC32XX SDK",
+    "version": "7.10.00.13",
+    "path": "/Applications/ti/simplelink_cc32xx_sdk_7_10_00_13/.metadata/product.json",
+    "includesCCXXImageComponents": true,
+    "rtos": [
+      "freertos",
+      "none",
+      "nortos",
+      "tirtos",
+      "tirtos7"
+    ],
+    "documentationPath": "../docs"
+  }
+]
